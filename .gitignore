@@ -1,0 +1,18 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+
+# Файлы IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Зависимости
+node_modules/ 
